@@ -1,2 +1,1 @@
-# candle_timeline
-
+# boilerplate webpack v4
